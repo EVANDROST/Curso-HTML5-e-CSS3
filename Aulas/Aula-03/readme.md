@@ -1,0 +1,1 @@
+Conhecendo algumas extensões para o editor Visual Studio Code, que podem ajudar muito na nossa produtividade.

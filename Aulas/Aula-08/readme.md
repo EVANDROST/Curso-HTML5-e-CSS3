@@ -1,0 +1,1 @@
+Aprendendo como adicionar imagens em nossas páginas html utilizando a tag <img>.

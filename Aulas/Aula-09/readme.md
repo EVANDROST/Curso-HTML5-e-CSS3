@@ -1,0 +1,1 @@
+Nesta aula vamos trabalhar com a tag <a> para criar nossas âncoras e links. Também vamos entender a diferença entre links com caminho relativo e absoluto. Ainda iremos conhecer dois novos atributos: o "href" e o "target".

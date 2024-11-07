@@ -1,0 +1,1 @@
+Apresentando as ferramentas que íamos utilizar para desenvolver os execícios e projetos.
